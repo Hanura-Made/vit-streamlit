@@ -1,5 +1,5 @@
 streamlit
 torch
 torchvision
-transformers
+transformers==4.46.3
 pillow
